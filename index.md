@@ -1,4 +1,4 @@
-## Ammar Waheed
+## Research Officer @ Human Centerered Robotics Lab, KICS UET Lahore
 
 You can use the [editor on GitHub](https://github.com/AmmarW/ammar.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

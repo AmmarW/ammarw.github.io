@@ -1,5 +1,5 @@
 ## Ammar Waheed
-### **Research Officer @ Human Centerered Robotics Lab, KICS UET Lahore**
+### **Research Officer @ Human Centered Robotics Lab, KICS UET Lahore**
 
 ### Projects
 Currently ongoing projects [here](https://ammarw.github.io/uet.github.io/)

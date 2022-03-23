@@ -1,14 +1,12 @@
 ## Ammar Waheed
-## Research Officer @ Human Centerered Robotics Lab, KICS UET Lahore
-
+### **Research Officer @ Human Centerered Robotics Lab, KICS UET Lahore**
 
 ### Projects
 Currently ongoing projects [here](https://ammarw.github.io/uet.github.io/)
 
-
-
 ### Contact Details
-
-Mobile: +92 314 4248155
+ammarwaheed@hotmail.com
 \
-Email: ammarwaheed@hotmail.com
++92 314 4248155
+
+
